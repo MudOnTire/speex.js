@@ -1,5 +1,5 @@
 Speex Codec in Javascript
-=========================
+==========================
 
 Speex Codec in Javascript. Ported speex-1.2.0RC using emscripten tool. 
 
